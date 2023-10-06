@@ -17,4 +17,5 @@ solution = Solution()
 print(solution.removeDuplicates(nums))  # 5
 print(nums)  # [0, 1, 2, 3, 4, 2, 2, 3, 3, 4]
 
-# Временная сложность O(n)
+# Time Complexity: O(N)
+# Space Complexity: O(1)
