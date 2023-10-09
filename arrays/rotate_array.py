@@ -10,12 +10,12 @@ class Solution:
         nums[:] = lst
 
 
-nums = [1,2,3,4,5,6,7]
+nums = [1, 2, 3, 4, 5, 6,7 ]
 k = 3
 solution = Solution()
 
 solution.rotate(nums, k)
-print(nums)  # [5,6,7,1,2,3,4]
+print(nums)  # [5, 6, 7, 1, 2, 3, 4]
 
 # Time Complexity: O(N)
 # Space Complexity: O(N)

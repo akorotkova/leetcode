@@ -6,8 +6,8 @@ class Solution:
         return len(nums) > len(set(nums))
 
 
-nums_1 = [1,2,3,1]
-nums_2 = [1,2,3,4]
+nums_1 = [1, 2, 3, 1]
+nums_2 = [1, 2, 3, 4]
 
 solution = Solution()
 
